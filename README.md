@@ -1,2 +1,2 @@
-# aboutJose
+# about Jose
 Github Page - Porfolio
