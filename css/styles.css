@@ -8813,7 +8813,7 @@ button.bg-dark:focus {
 
   .mb-lg-0,
 .my-lg-0 {
-    margin-bottom: 0 !important;
+    margin-bottom:  !important;
   }
 
   .ml-lg-0,
@@ -10136,8 +10136,8 @@ h3 {
   }
 }
 .masthead {
-  padding-top: calc(6rem + 74px);
-  padding-bottom: 6rem;
+  padding-top: calc(3rem + 74px);
+  padding-bottom: 3rem;
 }
 .masthead .masthead-heading {
   font-size: 2.75rem;
@@ -10255,7 +10255,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 .footer {
-  padding-top: 5rem;
+  padding-top: 0rem;
   padding-bottom: 5rem;
   background-color: #222629;
   color: #fff;
